@@ -58,4 +58,4 @@ You can test netlify headers including security, cache, etc:
 - [webhint](https://webhint.io/scanner/572b907a-c552-48d0-a86b-f4a7515829e4)
 
 ## License
-This code is available under the [MIT License](LICENSE)
+The code is available under the [MIT License](LICENSE)
