@@ -1,0 +1,25 @@
+root = true
+
+[*]
+charset = utf-8
+indent_style = space
+indent_size = 2
+end_of_line = lf
+trim_trailing_whitespace = true
+insert_final_newline = true
+
+[*.min.{js,css}]
+indent_style = ignore
+insert_final_newline = ignore
+
+[*.json]
+insert_final_newline = ignore
+
+[*.{md,markdown}]
+trim_trailing_whitespace = false
+
+[*.html]
+insert_final_newline = ignore
+
+[LICENSE]
+insert_final_newline = ignore
