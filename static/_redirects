@@ -1,2 +1,0 @@
-# Redirect default Netlify subdomain to primary domain (SEO)
-# https://example.netlify.com/* https://example.com/:splat 301!
