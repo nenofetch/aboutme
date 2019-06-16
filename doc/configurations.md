@@ -3,6 +3,7 @@ This is the **Native HTML** version, so you have to look for it to change it. Pl
 
 ## Website URL
 Change the default website address, namely ```illvart-aboutme.netlify.com``` to be your website address.
+
 The location of the file that includes the website address is:
 
 - /static/index.html
@@ -22,7 +23,7 @@ Search and change the description of the website at ```/static/index.html``` fro
 
 ## Twitter
 Search the code below at ```/static/index.html```.
-```
+```html
 <meta name="twitter:site" content="@your_site_username">
 <meta name="twitter:creator" content="@your_username">
 ```
@@ -32,14 +33,14 @@ Change ```your_username``` to your Twitter username.
 
 ##  Facebook
 Search the code below at ```/static/index.html```.
-```
+```html
 <!--
 <meta property="fb:app_id" content=" ">
 <meta property="fb:pages" content=" ">
 -->
 ```
 If you have a Facebook page and have a application on Facebook developers, you can use this by uncommenting it as below:
-```
+```html
 <meta property="fb:app_id" content=" ">
 <meta property="fb:pages" content=" ">
 ```
@@ -49,7 +50,7 @@ Also do it on ```fb:pages``` for your facebook page id.
 
 ## Search engine verify
 If you have or want to include a search engine verification code such as **google**, **bing** and **yandex** then search the code below at ```/static/index.html``` and uncomment.
-```
+```html
 <!--
 <meta name="google-site-verification" content=" ">
 <meta name="msvalidate.01" content=" ">
@@ -59,7 +60,7 @@ If you have or want to include a search engine verification code such as **googl
 
 ## Schema
 Search the code below at ```/static/index.html```.
-```
+```json
 {
   "@context": "https://schema.org",
   "@type": "Person",
@@ -75,7 +76,7 @@ Search the code below at ```/static/index.html```.
 Change ```Your Full Name``` with your name.
 
 And changes:
-```
+```json
 "https://twitter.com",
 "https://facebook.com",
 "https://instagram.com"
@@ -84,7 +85,7 @@ with your social media URL, we only include Twitter, Facebook and Instagram. For
 
 ## Google Analytics
 If you have **Google Analytics**, please find the code below:
-```
+```html
 <!--
 <script>
 (function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date;a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","https://www.google-analytics.com/analytics.js","ga");
@@ -110,7 +111,7 @@ You can search and choose the Icon at  [https://cdn.materialdesignicons.com/3.6.
 
 ## PWA
 Search the code below in ```/static/site.webmanifest```.
-```
+```json
 "name": "About Me",
 "short_name": "aboutme",
 ```
@@ -129,3 +130,6 @@ Replace all images according to the size available on ```/static/assets/img/```.
 
 The rest, please search and change your needs.
 If there are problems please create new issue at [https://github.com/illvart/aboutme/issues](https://github.com/illvart/aboutme/issues) .
+
+## Note
+If there are have a changes or updates you can adjust them manually.
