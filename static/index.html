@@ -59,12 +59,12 @@
 <link rel="preconnect" href="https://www.google-analytics.com" crossorigin>
 <!-- DNS resolution -->
 <link rel="dns-prefetch" href="https://cdn.jsdelivr.net">
-<!-- Style -->
-<link rel="stylesheet" href="/assets/css/style.min.css">
-<!-- Material Design Icons (mdi) -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@mdi/font@3.6.95/css/materialdesignicons.min.css">
 <!-- Google Fonts -->
 <link href="https://fonts.googleapis.com/css?family=Roboto+Mono:400,400i,500,700&display=swap" rel="stylesheet">
+<!-- Material Design Icons (mdi) -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@mdi/font@3.6.95/css/materialdesignicons.min.css">
+<!-- Style -->
+<link rel="stylesheet" href="/assets/css/style.min.css">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -78,8 +78,6 @@
   ]
 }
 </script>
-<!-- Just console.log -->
-<script async defer src="/index.js"></script>
 <!-- Google Analytics -->
 <!--
 <script>
@@ -186,5 +184,7 @@ ga("send", "pageview");
   <script>
   "serviceWorker"in navigator&&window.addEventListener("load",function(){navigator.serviceWorker.register("/sw.js").then(function(a){console.log("Service Worker registered! \ud83d\ude0e")})["catch"](function(a){console.log("Registration failed \ud83d\ude2b ",a)})});
   </script>
+  <!-- Just console.log -->
+  <script async defer src="/index.js"></script>
 </body>
 </html>
