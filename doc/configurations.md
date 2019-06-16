@@ -107,9 +107,9 @@ Search all comments on ```/static/index.html``` such as ```<!-- // Start about \
 ## Layout
 Change the content layout from the center position to the left.
 
-Search ```<main class="container center">``` and remove the ```center``` class.
+Search ```<main class="container center">``` in ```/static/index.html``` and remove the ```center``` class.
 
-Search ```<div class="list horizontal">``` and remove the ```horizontal``` class.
+Search ```<div class="list horizontal">``` in ```/static/index.html``` and remove the ```horizontal``` class.
 
 ## Social media
 Adjust your social media address under comment ```<!-- Start footer -->```.
