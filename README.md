@@ -7,7 +7,7 @@
 [![PWA: yes](https://img.shields.io/badge/PWA-yes-%235A0FC8.svg)](https://developers.google.com/web/progressive-web-apps)
 [![Front‑End_Checklist followed](https://img.shields.io/badge/Front‑End_Checklist-followed-brightgreen.svg)](https://github.com/thedaviddias/Front-End-Checklist)
 
-This is my first open source project. Basically, on the user interface doesn't use ~~JavaScript~~, only CSS! But support **Progressive Web Apps (PWA)** with [Workbox](https://github.com/GoogleChrome/workbox).
+**aboutme** is a template that you can use to put information about yourself on the internet. Basically, on the user interface doesn't use ~~JavaScript~~, only CSS! But support **Progressive Web Apps (PWA)** with [Workbox](https://github.com/GoogleChrome/workbox).
 
 ![Screenshot](https://cdn.staticaly.com/screenshot/illvart-aboutme.netlify.com?fullPage=true)
 
