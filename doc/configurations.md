@@ -13,10 +13,10 @@ The location of the file that includes the website address is:
 Search all the ```illvart-aboutme.netlify.com``` website addresses found in the file above and change them to your website address.
 
 ## Website title
-Search and change the title of the website at ```/static/index.html``` from ```About Me - Your personal homepage``` becomes the title of your website.
+Search and change the title of the website at ```/static/index.html``` from ```aboutme - Your personal homepage``` becomes the title of your website.
 
 ## Website title (short)
-Search and change the short title of the website at ```/static/index.html``` from ```About Me``` to the short title of your website.
+Search and change the short title of the website at ```/static/index.html``` from ```aboutme``` to the short title of your website.
 
 ## Website description
 Search and change the description of the website at ```/static/index.html``` from ```Your personal homepage running on Node.js``` to be the description of your website.

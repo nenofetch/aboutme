@@ -1,6 +1,6 @@
 {
   "name": "aboutme",
-  "description": "About Me – Your personal homepage running on Node.js.",
+  "description": "aboutme – Your personal homepage running on Node.js.",
   "version": "1.0.0",
   "author": "MNF <illvart.email@gmail.com>",
   "main": "n/a",
@@ -8,7 +8,7 @@
   "homepage": "https://github.com/illvart/aboutme",
   "repository": "git+https://github.com/illvart/aboutme.git",
   "keywords": [
-    "about me",
+    "aboutme",
     "personal website",
     "material design",
     "PWA",
