@@ -15,7 +15,7 @@ This is my first open source project. Basically, on the user interface doesn't u
 This project work in progress. The next version I will include **Node.js** packages like a **Gulp** to optimize development and production. Soon! 🙇‍♂️
 
 ## Documentation
-If you want to use and configure this template, please read the [documentation](doc/configurations).
+If you want to use and configure this template, please read the [documentation](doc/configurations.md).
 
 ### Clone
 Clone this repository and customization it:
