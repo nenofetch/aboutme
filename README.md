@@ -1,4 +1,4 @@
-# [About Me](https://github.com/illvart/aboutme)
+# [aboutme](https://github.com/illvart/aboutme)
 
 > Your personal homepage running on Node.js
 
