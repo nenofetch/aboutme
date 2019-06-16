@@ -104,6 +104,13 @@ Search ```DevOps and Full-Stack Developer``` at ```/static/index.html``` and cha
 ## You must understand HTML
 Search all comments on ```/static/index.html``` such as ```<!-- // Start about \\-->``` and replace all the content below. If you don't need it, you can remove it or comment.
 
+## Layout
+Change the content layout from centered to not centered.
+
+Search ```<main class="container center">``` and remove the ```center``` class.
+
+Search ```<div class="list horizontal">``` and remove the ```horizontal``` class.
+
 ## Social media
 Adjust your social media address under comment ```<!-- Start footer -->```.
 
