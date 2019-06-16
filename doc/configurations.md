@@ -105,7 +105,7 @@ Search ```DevOps and Full-Stack Developer``` at ```/static/index.html``` and cha
 Search all comments on ```/static/index.html``` such as ```<!-- // Start about \\-->``` and replace all the content below. If you don't need it, you can remove it or comment.
 
 ## Layout
-Change the content layout from centered to not centered.
+Change the content layout from the center position to the left.
 
 Search ```<main class="container center">``` and remove the ```center``` class.
 
