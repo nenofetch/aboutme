@@ -1,6 +1,6 @@
 # [aboutme](https://github.com/illvart/aboutme)
 
-> Your personal homepage running on Node.js
+> About Me – Your personal homepage running on Node.js
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/70385d31-12e1-4f15-9370-f49d78870f3b/deploy-status)](https://app.netlify.com/sites/illvart-aboutme/deploys)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
