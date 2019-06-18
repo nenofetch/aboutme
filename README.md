@@ -64,4 +64,8 @@ You can test netlify headers including security, cache, etc:
 - [Flaticon](https://www.flaticon.com/)
 
 ## License
-[MIT License](LICENSE)
+Except as otherwise noted, this work is licensed under a [MIT License](LICENSE).
+
+---
+
+Copyright 2019 MNF (illvart). All Rights Reserved.
