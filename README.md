@@ -74,9 +74,6 @@ You can test netlify headers including security, cache, etc:
 - [Security Headers](https://securityheaders.com/?q=https://illvart-aboutme.netlify.com&followRedirects=on)
 - [webhint](https://webhint.io/scanner/572b907a-c552-48d0-a86b-f4a7515829e4)
 
-## Credits
-- [Flaticon](https://www.flaticon.com/)
-
 ## 🤝 Contributing
 Contributions, issues and feature requests are welcome.<br>
 Feel free to check [issues page](https://github.com/illvart/aboutme/issues) if you want to contribute.
