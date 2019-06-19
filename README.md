@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to <a href="https://github.com/illvart/aboutme" title="Repository">aboutme</a> 👋</h1>
 <p align="center">
-aboutme – Your personal homepage running on <strong>Node.js</strong> ⚡️
+👤 aboutme – Your personal homepage running on <strong>Node.js</strong> ⚡️
 </p>
 <p align="center">
   <a href="https://app.netlify.com/sites/illvart-aboutme/deploys" title="Netlify">
@@ -20,8 +20,7 @@ aboutme – Your personal homepage running on <strong>Node.js</strong> ⚡️
 
 ---
 
-**aboutme** is a template that you can use to put information about yourself on the internet.<br>
-Basically, on the user interface doesn't use ~~JavaScript~~, only CSS! But support **Progressive Web Apps (PWA)** with [Workbox](https://github.com/GoogleChrome/workbox).
+**aboutme** is a template that you can use to put information about yourself on the internet. Basically, on the user interface doesn't use ~~JavaScript~~, only CSS! But support **Progressive Web Apps (PWA)** with [Workbox](https://github.com/GoogleChrome/workbox).
 
 ![Screenshot](https://cdn.staticaly.com/screenshot/illvart-aboutme.netlify.com?fullPage=true)
 
