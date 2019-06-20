@@ -7,7 +7,7 @@ aboutme – Your personal homepage running on <strong>Node.js</strong> ⚡️
     <img alt="Netlify Status" src="https://api.netlify.com/api/v1/badges/70385d31-12e1-4f15-9370-f49d78870f3b/deploy-status" />
   </a>
   <a href="https://david-dm.org/illvart/aboutme" title="Watch Dependency">
-    <img alt="Dependency Status" src="https://david-dm.org/illvart/aboutme.svg" />
+    <img alt="Dependency Status" src="https://david-dm.org/illvart/aboutme/status.svg" />
   </a>
   <a href="https://david-dm.org/illvart/aboutme?type=dev" title="Watch devDependency">
     <img alt="devDependency Status" src="https://david-dm.org/illvart/aboutme/dev-status.svg" />
