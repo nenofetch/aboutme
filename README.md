@@ -1,17 +1,22 @@
 <h1 align="center">Welcome to <a href="https://github.com/illvart/aboutme" title="Repository">aboutme</a> 👋</h1>
 <p align="center">
-👤 aboutme – Your personal homepage running on <strong>Node.js</strong> ⚡️
+aboutme – Your personal homepage running on <strong>Node.js</strong> ⚡️
 </p>
 <p align="center">
   <a href="https://app.netlify.com/sites/illvart-aboutme/deploys" title="Netlify">
     <img alt="Netlify Status" src="https://api.netlify.com/api/v1/badges/70385d31-12e1-4f15-9370-f49d78870f3b/deploy-status" />
   </a>
-  <a href="/illvart/aboutme/blob/master/LICENSE" title="License">
-    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-blue.svg" />
+  <a href="https://david-dm.org/illvart/aboutme" title="Watch Dependency">
+    <img alt="Dependency Status" src="https://david-dm.org/illvart/aboutme.svg" />
   </a>
-  <img alt="PWA: yes" src="https://img.shields.io/badge/PWA-yes-%235A0FC8.svg" />
+  <a href="https://david-dm.org/illvart/aboutme?type=dev" title="Watch devDependency">
+    <img alt="devDependency Status" src="https://david-dm.org/illvart/aboutme/dev-status.svg" />
+  </a>
   <a href="https://github.com/thedaviddias/Front-End-Checklist" title="Front-End Checklist">
     <img alt="Front‑End_Checklist followed" src="https://img.shields.io/badge/Front‑End_Checklist-followed-brightgreen.svg" />
+  </a>
+  <a href="#-license" title="License">
+    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-blue.svg" />
   </a>
   <a href="https://twitter.com/illvart" title="Follow me on Twitter">
     <img alt="Twitter: illvart" src="https://img.shields.io/twitter/follow/illvart.svg?style=social" />
