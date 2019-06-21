@@ -18,9 +18,6 @@ aboutme – Your personal homepage running on <strong>Node.js</strong> ⚡️
   <a href="#-license" title="License">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-blue.svg" />
   </a>
-  <a href="https://twitter.com/illvart" title="Follow me on Twitter">
-    <img alt="Twitter: illvart" src="https://img.shields.io/twitter/follow/illvart.svg?style=social" />
-  </a>
 </p>
 
 ---
@@ -91,7 +88,7 @@ Give a ⭐️ this repository if this project helped you!
 </a>
 
 ## 📝 License
-Except as otherwise noted, this work is licensed under a [MIT License](LICENSE).
+Except as otherwise noted, this work is licensed under the [MIT License](LICENSE).
 
 ---
 
