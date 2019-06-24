@@ -1,11 +1,6 @@
 <h1 align="center">Welcome to <a href="https://github.com/illvart/aboutme" title="Repository">aboutme</a> 👋</h1>
+<h3 align="center">aboutme – Your personal homepage running on Node.js ⚡️</h3>
 <p align="center">
-aboutme – Your personal homepage running on <strong>Node.js</strong> ⚡️
-</p>
-<p align="center">
-  <a href="https://app.netlify.com/sites/illvart-aboutme/deploys" title="Netlify">
-    <img alt="Netlify Status" src="https://api.netlify.com/api/v1/badges/70385d31-12e1-4f15-9370-f49d78870f3b/deploy-status" />
-  </a>
   <a href="https://david-dm.org/illvart/aboutme" title="Watch Dependency">
     <img alt="Dependency Status" src="https://david-dm.org/illvart/aboutme/status.svg" />
   </a>
@@ -16,7 +11,15 @@ aboutme – Your personal homepage running on <strong>Node.js</strong> ⚡️
     <img alt="Front‑End_Checklist followed" src="https://img.shields.io/badge/Front‑End_Checklist-followed-brightgreen.svg" />
   </a>
   <a href="#-license" title="License">
-    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-blue.svg" />
+    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-green.svg" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://app.netlify.com/sites/illvart-aboutme/deploys" title="Netlify">
+    <img alt="Netlify Status" src="https://api.netlify.com/api/v1/badges/70385d31-12e1-4f15-9370-f49d78870f3b/deploy-status" />
+  </a>
+  <a href="https://twitter.com/illvart" title="Follow me on Twitter">
+    <img alt="Twitter" src="https://img.shields.io/twitter/follow/illvart.svg?label=follow+MNF" />
   </a>
 </p>
 
