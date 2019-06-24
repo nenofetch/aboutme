@@ -11,7 +11,7 @@
     <img alt="Front‑End_Checklist followed" src="https://img.shields.io/badge/Front‑End_Checklist-followed-brightgreen.svg" />
   </a>
   <a href="#-license" title="License">
-    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-green.svg" />
+    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-brightgreen.svg" />
   </a>
 </p>
 <p align="center">
