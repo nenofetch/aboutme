@@ -30,28 +30,28 @@ If you want to use and configure this template, please read the [documentation](
 ### Clone
 Clone this repository and customization it:
 
-```bash
+```sh
 git clone https://github.com/illvart/aboutme.git
 ```
 
 ### Install Packages
 Install the packages required:
 
-```bash
+```sh
 yarn install
 ```
 
 ### Development
 Running locally using [http-server](https://github.com/indexzero/http-server):
 
-```bash
+```sh
 yarn dev
 ```
 
 ### PWA
 After editing the code and adding something, then inject manifest:
 
-```bash
+```sh
 yarn inject-manifest
 ```
 
@@ -59,7 +59,7 @@ yarn inject-manifest
 Default deploy command for **GitHub Pages**.<br>
 You can also use **Netlify**, and this automatically pointing to the **static** directory.
 
-```bash
+```sh
 yarn deploy
 ```
 
