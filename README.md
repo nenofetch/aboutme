@@ -11,7 +11,7 @@
     <img alt="Netlify Status" src="https://api.netlify.com/api/v1/badges/70385d31-12e1-4f15-9370-f49d78870f3b/deploy-status" />
   </a>
   <a href="https://twitter.com/illvart" title="Follow me on Twitter">
-    <img alt="Twitter" src="https://img.shields.io/twitter/follow/illvart.svg?label=follow+MNF" />
+    <img alt="Twitter" src="https://img.shields.io/twitter/follow/illvart.svg?label=follow+illvart" />
   </a>
 </p>
 
@@ -42,7 +42,7 @@ yarn install
 ```
 
 ### Development
-Running locally using [http-server](https://github.com/indexzero/http-server):
+Running locally:
 
 ```sh
 yarn dev
@@ -87,4 +87,4 @@ Except as otherwise noted, this work is licensed under the [MIT License](LICENSE
 
 ---
 
-Copyright © 2019 [MNF (illvart)](https://github.com/illvart). All Rights Reserved.
+Copyright © 2019 [Muhammad Nur Fuad (illvart)](https://github.com/illvart). All Rights Reserved.
